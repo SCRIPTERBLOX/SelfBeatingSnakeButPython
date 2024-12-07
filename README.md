@@ -41,10 +41,16 @@ I have a website which you can find under scripterblox.github.io and i would gre
 
 ### Download this just for looking at
 
-[![Download](https://img.shields.io/badge/Download-File-darkblue?style=plastic&logoSize=15&label=Download&labelColor=darkred&color=darkblue)](./dist/main.exe)
+[![Download](https://img.shields.io/badge/Download-File-darkblue?style=plastic&label=Download&labelColor=darkred&color=darkblue)](./dist/main.exe)
 
+Just click this button and click the `Download raw file` button.
 
+If you download the `.exe` file and double click it windows will flag it as a virus.
+It is not a virus.
+I know that I would say that if it was a virus.
+But the reason it is being flagged as a virus is that I did not sign the file and because usually viruses also are not signed windows thinks that that could be a virus.
 
+I guarantee you that to the day I get hacked that `.exe`  is not going to be a virus.
 
 ### Use this for your own stuff
 
