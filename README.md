@@ -39,6 +39,13 @@ You can find `my YouTube channel` under the name of SCRIPTERBLOX or at the follo
 
 I have a website which you can find under scripterblox.github.io and i would greatly appreciate it allot if you would take the time to check it out.
 
+### Download this just for looking at
+
+[![Download](https://img.shields.io/badge/Download-File-darkblue?style=plastic&logoSize=15&label=Download&labelColor=darkred&color=darkblue)](./dist/main.exe)
+
+
+
+
 ### Use this for your own stuff
 
 If you want to embed my `Snake AI` into your own projects, develop on it yourself or anything else (as long as it is not monetary distribution without any own additions) then you can follow the following instructions for a detailed guide on how to use this yourself.
