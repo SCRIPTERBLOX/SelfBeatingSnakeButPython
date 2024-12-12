@@ -135,7 +135,7 @@ As I do not use any other operating systems than windows I am not familiar with 
 18. In IntelliJ at the bottom left select the terminal button.
 19. In there paste and execute the following commands:
 
-    pip install pygame
+    pip install pygame;
     pip install numpy
 
 20. Now if you expand the `src` directory and double click on the main.py file then at the top you should be able to click on the run button.
